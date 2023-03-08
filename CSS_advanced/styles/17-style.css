@@ -389,7 +389,7 @@ a:active{
 .card-category{
     color: var(--color-primary);
 }
-.section-class{
+.section{
     padding: var(--section-padding);
 
 }
